@@ -6,6 +6,11 @@
     text-decoration: none;
 
 }
+
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     background-color: white;
     background-size: cover;
